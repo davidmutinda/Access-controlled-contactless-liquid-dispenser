@@ -4,6 +4,10 @@
 
 
 
+## Abstract
+The access-controlled contactless liquid dispenser seeks to prevent the spread of covid-19 by providing a system that dispenses liquids e.g. beverages, without contact. This dispenser only dispenses the beverages to bona fide members. Anyone that doesn’t possess valid identification is be denied access to the beverages in the dispenser. This project also seeks to reduce wastage by providing a system that dispenses a specified amount to users and also limit the number of times the users can dispense in a day. The amount dispensed and the number of times a user can use it in a day depends on the user's membership i.e. regular or premium. This dispenser can be employed in school cafeterias to ensure that every student is served with the beverages.
+
+
 ## Block diagram
 ![image](https://user-images.githubusercontent.com/96857630/152321292-e1de0f70-d5d4-4fda-a2a2-490bd74d38b1.png)
 
