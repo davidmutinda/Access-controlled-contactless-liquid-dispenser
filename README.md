@@ -8,7 +8,7 @@
 ## Flow chart
 ![image](https://user-images.githubusercontent.com/96857630/152321427-593299c8-ca8c-4600-ac3b-6e6dbaf529b2.png)
 
-## Circuit schematics
+## Circuit schematic
 ![image](https://user-images.githubusercontent.com/96857630/152321563-5286e7a3-564b-4fc3-9a64-ddec8f4da5fd.png)
 
 
