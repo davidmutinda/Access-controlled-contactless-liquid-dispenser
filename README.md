@@ -21,8 +21,16 @@ The access-controlled contactless liquid dispenser prevents the spread of covid-
 
 
 
+
+
 ## Circuit schematic
 ![image](https://user-images.githubusercontent.com/96857630/152321563-5286e7a3-564b-4fc3-9a64-ddec8f4da5fd.png)
+
+
+
+
+
+
 
 ## Admin website
 ![image](https://user-images.githubusercontent.com/96857630/152337646-47198206-6503-49f6-b67e-14ccd58190b9.png)
