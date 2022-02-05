@@ -7,7 +7,7 @@
 The access-controlled contactless liquid dispenser prevents the spread of covid-19 by providing a system that dispenses liquids e.g. beverages, without contact. This dispenser only dispenses the beverages to bona fide members. Anyone that doesn’t possess valid identification is denied access to the beverages in the dispenser. This dispenser also increases efficiency by providing a system that dispenses a specified amount to users and also limits the number of times the users can dispense in a day. The amount dispensed and the number of times a user can use it in a day depends on the user's membership i.e. regular or premium.
 
 ## SYSTEM COMPONENTS ##
-The table below shows the main components that make up the system.
+The table below shows the main hardware components making up the system.
 
 Component     | Image
 ------------- | -------------
@@ -19,12 +19,15 @@ RFID module  |  ![image](https://user-images.githubusercontent.com/96857630/1526
 RTC module  |  ![image](https://user-images.githubusercontent.com/96857630/152630779-726cec53-72f5-4b9c-a9eb-c88b3c79737b.png)
 LCD module  |  ![image](https://user-images.githubusercontent.com/96857630/152630800-55ddd680-6070-47c4-9025-6dabb2e35fd1.png)
 
-## BLOCK DIAGRAM ##
+## SYSTEM OVERVIEW ##
+### HOW IT WORKS ###
+*
+### BLOCK DIAGRAM ###
 The figure below gives a clear diagrammatic representaion of how the components making up the system are connected.
 
 ![image](https://user-images.githubusercontent.com/96857630/152321292-e1de0f70-d5d4-4fda-a2a2-490bd74d38b1.png)
 
-## FLOWCHART DIAGRAM ##
+### FLOWCHART DIAGRAM ###
 The flowchart of the system is shown below, which shows the program flow once the system is powered.
 
 ![image](https://user-images.githubusercontent.com/96857630/152321427-593299c8-ca8c-4600-ac3b-6e6dbaf529b2.png)
@@ -32,7 +35,7 @@ The flowchart of the system is shown below, which shows the program flow once th
 
 
 
-## CIRCUIT SCHEMATIC ##
+### CIRCUIT SCHEMATIC ###
 The figure below shows how the components and modules are connected to the microcontroller.
 
 ![image](https://user-images.githubusercontent.com/96857630/152321563-5286e7a3-564b-4fc3-9a64-ddec8f4da5fd.png)
