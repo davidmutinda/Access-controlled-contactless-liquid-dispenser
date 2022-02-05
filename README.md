@@ -33,7 +33,7 @@ The flowchart of the system is shown below, which shows the program flow once th
 
 
 ## CIRCUIT SCHEMATIC ##
-The figure below shows how thw components are connected to the microcontroller.
+The figure below shows how the components and modules are connected to the microcontroller.
 
 ![image](https://user-images.githubusercontent.com/96857630/152321563-5286e7a3-564b-4fc3-9a64-ddec8f4da5fd.png)
 
