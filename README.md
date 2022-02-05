@@ -12,12 +12,12 @@ The table below shows the main hardware components making up the system.
 Component     | Image
 ------------- | -------------
 Nodemcu-32s  | ![image](https://user-images.githubusercontent.com/96857630/152630669-5feaf0a7-669a-46d0-9adc-9d407f35d67b.png)
-Ultrasonic sensor  |  ![image](https://user-images.githubusercontent.com/96857630/152630705-16a4d3e8-c59e-495d-b7b0-be8341678737.png) 
-Micro pump  |  ![image](https://user-images.githubusercontent.com/96857630/152630731-abd02838-afbb-4f53-93bd-caa93f507f09.png) 
+HCSR04 Ultrasonic sensor  |  ![image](https://user-images.githubusercontent.com/96857630/152630705-16a4d3e8-c59e-495d-b7b0-be8341678737.png) 
+Micro submersible pump  |  ![image](https://user-images.githubusercontent.com/96857630/152630731-abd02838-afbb-4f53-93bd-caa93f507f09.png) 
 5V relay module |  ![image](https://user-images.githubusercontent.com/96857630/152630746-3850d9c5-58a7-471a-80a7-6e032fb4d034.png)
-RFID module  |  ![image](https://user-images.githubusercontent.com/96857630/152630761-67278db7-437a-40c7-9cc9-3b80c3a78a20.png)
-RTC module  |  ![image](https://user-images.githubusercontent.com/96857630/152630779-726cec53-72f5-4b9c-a9eb-c88b3c79737b.png)
-LCD module  |  ![image](https://user-images.githubusercontent.com/96857630/152630800-55ddd680-6070-47c4-9025-6dabb2e35fd1.png)
+RC522 RFID module  |  ![image](https://user-images.githubusercontent.com/96857630/152630761-67278db7-437a-40c7-9cc9-3b80c3a78a20.png)
+DS3231 RTC module  |  ![image](https://user-images.githubusercontent.com/96857630/152630779-726cec53-72f5-4b9c-a9eb-c88b3c79737b.png)
+LCD 1602 module  |  ![image](https://user-images.githubusercontent.com/96857630/152630800-55ddd680-6070-47c4-9025-6dabb2e35fd1.png)
 
 ## SYSTEM OVERVIEW ##
 ### HOW IT WORKS ###
