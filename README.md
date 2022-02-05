@@ -4,19 +4,30 @@
 
 
 ## ABSTRACT ##
-The access-controlled contactless liquid dispenser prevents the spread of covid-19 by providing a system that dispenses liquids e.g. beverages, without contact. This dispenser only dispenses the beverages to bona fide members. Anyone that doesn’t possess valid identification is be denied access to the beverages in the dispenser. This dispenser also reduces wastage by providing a system that dispenses a specified amount to users and also limits the number of times the users can dispense in a day. The amount dispensed and the number of times a user can use it in a day depends on the user's membership i.e. regular or premium.
+The access-controlled contactless liquid dispenser prevents the spread of covid-19 by providing a system that dispenses liquids e.g. beverages, without contact. This dispenser only dispenses the beverages to bona fide members. Anyone that doesn’t possess valid identification is denied access to the beverages in the dispenser. This dispenser also increases efficiency by providing a system that dispenses a specified amount to users and also limits the number of times the users can dispense in a day. The amount dispensed and the number of times a user can use it in a day depends on the user's membership i.e. regular or premium.
 
+## SYSTEM COMPONENTS ##
 ## BLOCK DIAGRAM ##
+The figure below gives a clear diagrammatic representaion of how the components making up the system are connected.
+
 ![image](https://user-images.githubusercontent.com/96857630/152321292-e1de0f70-d5d4-4fda-a2a2-490bd74d38b1.png)
 
 ## FLOWCHART DIAGRAM ##
+The flowchart of the system is shown below, which shows the program flow once the system is powered.
+
 ![image](https://user-images.githubusercontent.com/96857630/152321427-593299c8-ca8c-4600-ac3b-6e6dbaf529b2.png)
 
+
+
+
 ## CIRCUIT SCHEMATIC ##
+The figure below shows how thw components are connected to the microcontroller.
+
 ![image](https://user-images.githubusercontent.com/96857630/152321563-5286e7a3-564b-4fc3-9a64-ddec8f4da5fd.png)
 
 ## RESULTS ##
 ### Fabricated circuit ###
+The figures below show the top and side views of the fabricated circuit respectively.
              
 
  ![image](https://user-images.githubusercontent.com/96857630/152342291-fc9d119f-da30-4b3c-a6cb-e2a52402f220.png)
@@ -30,6 +41,7 @@ The access-controlled contactless liquid dispenser prevents the spread of covid-
 
 
 ### Admin website ###
+The images below show the admin website which shows users' data, and is used to register or delete users. Users can either be registered on the regular or premium membership plans.
 
  ![image](https://user-images.githubusercontent.com/96857630/152342689-727585c1-0edc-4e4f-a8d0-7840ccad9aa1.png)
  
