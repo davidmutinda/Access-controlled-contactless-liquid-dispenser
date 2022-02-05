@@ -67,5 +67,5 @@ The images below show the admin website which shows users' data, and is used to 
 
 
 ## CONCLUSION ##
- This dispenser can be employed in school cafeterias to ensure that every student is served with the beverages and also to minimize contact. The system could be implemented using biometric systems such as facial recognition.
+ This dispenser can be employed in school cafeterias to ensure that every student is served with the beverages and also to minimize contact. The system could be improved by using biometric systems such as facial recognition instead of RFID.
 
