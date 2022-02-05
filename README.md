@@ -21,7 +21,7 @@ LCD 1602 module  |  ![image](https://user-images.githubusercontent.com/96857630/
 
 ## SYSTEM OVERVIEW ##
 ### HOW IT WORKS ###
-*
+* 
 ### BLOCK DIAGRAM ###
 The figure below gives a clear diagrammatic representaion of how the components making up the system are connected.
 
