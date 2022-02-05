@@ -41,11 +41,14 @@ The figures below show the top and side views of the fabricated circuit respecti
 
 
 ### Admin website ###
-The images below show the admin website which shows users' data, and is used to register or delete users. Users can either be registered on the regular or premium membership plans.
+The images below show the admin website which shows users' data, and is used to register or delete users. Users can either be registered on the regular or premium membership plans. The admin is required to log in first before he/she can access the data.
 
  ![image](https://user-images.githubusercontent.com/96857630/152342689-727585c1-0edc-4e4f-a8d0-7840ccad9aa1.png)
  
  ![image](https://user-images.githubusercontent.com/96857630/152344950-650cb6f7-c27a-44e1-bd6a-6f6090c2d2f0.png)
+ 
+ ![image](https://user-images.githubusercontent.com/96857630/152630487-f591a2f9-c00d-497e-bdcd-a65af6006323.png)
+
 
 
 ## CONCLUSION ##
