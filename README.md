@@ -20,8 +20,7 @@ DS3231 RTC module  |  ![image](https://user-images.githubusercontent.com/9685763
 LCD 1602 module  |  ![image](https://user-images.githubusercontent.com/96857630/152630800-55ddd680-6070-47c4-9025-6dabb2e35fd1.png)
 
 ## SYSTEM OVERVIEW ##
-### HOW IT WORKS ###
-* 
+
 ### BLOCK DIAGRAM ###
 The figure below gives a clear diagrammatic representaion of how the components making up the system are connected.
 
