@@ -53,7 +53,11 @@ The figures below show the top and side views of the fabricated circuit respecti
  
 
 ### The dispenser ###
-[photos](https://github.com/davidmutinda/Access-controlled-contactless-liquid-dispenser/tree/main/Photos)
+The [photos](https://github.com/davidmutinda/Access-controlled-contactless-liquid-dispenser/tree/main/Photos) file contains images of the dispensing system when it is switched on.
+* The dispenser first connects to the internet.
+* It then checks if the beverage level is low, if not it displays an error mesage.
+* The system then asks the user to place the cup. 
+* The user is then asked to scan his/her RFID card. If the card is not valid, an error message is diplayed. If the card is valid but the access times are exceeded, an error message is diplayed. If the card is valid and hasn't exceeded the access times, access is granted. The dispenser then begins pumping specific volume of the liquid into the cup.
 
 
 ### Admin website ###
