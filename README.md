@@ -54,10 +54,10 @@ The figures below show the top and side views of the fabricated circuit respecti
 
 ### The dispenser ###
 The [photos](https://github.com/davidmutinda/Access-controlled-contactless-liquid-dispenser/tree/main/Photos) file contains images of the dispensing system when it is switched on.
-* The dispenser first connects to the internet.
-* It then checks if the beverage level is low, if not it displays an error mesage.
-* The system then asks the user to place the cup. 
-* The user is then asked to scan his/her RFID card. If the card is not valid, an error message is diplayed. If the card is valid but the access times are exceeded, an error message is diplayed. If the card is valid and hasn't exceeded the access times, access is granted. The dispenser then begins pumping specific volume of the liquid into the cup.
+* The dispenser first [connects to the internet](https://github.com/davidmutinda/Access-controlled-contactless-liquid-dispenser/blob/main/Photos/Successful%20process/1.jpg).
+* It then checks if the beverage level is low, if not it [displays an error mesage](https://github.com/davidmutinda/Access-controlled-contactless-liquid-dispenser/blob/main/Photos/Beverage%20level%20low.jpg).
+* The system then asks the user to [place the cup](https://github.com/davidmutinda/Access-controlled-contactless-liquid-dispenser/blob/main/Photos/Successful%20process/2.jpg). 
+* The user is then asked to [scan his/her RFID card](https://github.com/davidmutinda/Access-controlled-contactless-liquid-dispenser/blob/main/Photos/Successful%20process/3.jpg). If the card is not valid, an [error message](https://github.com/davidmutinda/Access-controlled-contactless-liquid-dispenser/blob/main/Photos/Invalid%20RFID%20card.jpg) is diplayed. If the card is valid but the access times are exceeded, an [error message](https://github.com/davidmutinda/Access-controlled-contactless-liquid-dispenser/blob/main/Photos/Exceeded%20access%20times.jpg) is diplayed as well. If the card is valid and hasn't exceeded the access times, [access is granted](https://github.com/davidmutinda/Access-controlled-contactless-liquid-dispenser/blob/main/Photos/Successful%20process/4.jpg). The dispenser then begins [pumping specific volume](https://github.com/davidmutinda/Access-controlled-contactless-liquid-dispenser/blob/main/Photos/Successful%20process/5.jpg) of the liquid into the cup.
 
 
 ### Admin website ###
