@@ -52,7 +52,7 @@ The figures below show the top and side views of the fabricated circuit respecti
  ![image](https://user-images.githubusercontent.com/96857630/152342837-43888c3f-7b59-47e3-9a83-4054d1606926.png)
  
 
-### The dispenser ###
+### Dispensing system ###
 The [photos](https://github.com/davidmutinda/Access-controlled-contactless-liquid-dispenser/tree/main/Photos) file contains images of the dispensing system when it is switched on.
 * The dispenser first [connects to the internet](https://github.com/davidmutinda/Access-controlled-contactless-liquid-dispenser/blob/main/Photos/Successful%20process/1.jpg).
 * It then checks if the beverage level is sufficient, if not it [displays an error mesage](https://github.com/davidmutinda/Access-controlled-contactless-liquid-dispenser/blob/main/Photos/Beverage%20level%20low.jpg).
