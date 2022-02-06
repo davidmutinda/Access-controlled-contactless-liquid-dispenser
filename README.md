@@ -21,12 +21,12 @@ LCD 1602 module  |  ![image](https://user-images.githubusercontent.com/96857630/
 
 ## SYSTEM OVERVIEW ##
 
-### BLOCK DIAGRAM ###
+### Block diagram ###
 The figure below gives a clear diagrammatic representaion of how the components making up the system are connected.
 
 ![image](https://user-images.githubusercontent.com/96857630/152321292-e1de0f70-d5d4-4fda-a2a2-490bd74d38b1.png)
 
-### FLOWCHART DIAGRAM ###
+### Flowchart diagram ###
 The flowchart of the system is shown below, which shows the program flow once the system is powered.
 
 ![image](https://user-images.githubusercontent.com/96857630/152321427-593299c8-ca8c-4600-ac3b-6e6dbaf529b2.png)
@@ -34,7 +34,7 @@ The flowchart of the system is shown below, which shows the program flow once th
 
 
 
-### CIRCUIT SCHEMATIC ###
+### Circuit schematic ###
 The figure below shows how the components and modules are connected to the microcontroller.
 
 ![image](https://user-images.githubusercontent.com/96857630/152321563-5286e7a3-564b-4fc3-9a64-ddec8f4da5fd.png)
