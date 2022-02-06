@@ -1,4 +1,4 @@
-https://github.com/davidmutinda/access-controlled-contactless-liquid-dispenser/blob/3ab5899b7736abb15ef3069306e91addacb7d1b4/LICENSE.md
+
 
 ## ACCESS-CONTROLLED CONTACTLESS LIQUID DISPENSER ##
 
