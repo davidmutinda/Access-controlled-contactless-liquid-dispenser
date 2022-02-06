@@ -6,6 +6,10 @@
 ## ABSTRACT ##
 The access-controlled contactless liquid dispenser prevents the spread of covid-19 by providing a system that dispenses liquids e.g. beverages, without contact. This dispenser only dispenses the beverages to bona fide members. Anyone that doesn’t possess valid identification is denied access to the beverages in the dispenser. This dispenser also increases efficiency by providing a system that dispenses a specified amount to users and also limits the number of times the users can dispense in a day. The amount dispensed and the number of times a user can use it in a day depends on the user's membership i.e. regular or premium.
 
+## ACKNOWLEDGEMENT ##
+I acknowledge that this project was successful due to the support of my project supervisor, [Mr. Ephraim W. Mureu](https://www.linkedin.com/in/ephraim-w-mureu-41895b43/). Many thanks to my family and friends who supported me in one way or another.
+
+
 ## SYSTEM COMPONENTS ##
 The table below shows the main hardware components making up the system.
 
