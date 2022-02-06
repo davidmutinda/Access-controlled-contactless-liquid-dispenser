@@ -40,7 +40,7 @@ The figure below shows how the components and modules are connected to the micro
 ![image](https://user-images.githubusercontent.com/96857630/152321563-5286e7a3-564b-4fc3-9a64-ddec8f4da5fd.png)
 
 ## RESULTS ##
-### Fabricated circuit ###
+### Circuit board ###
 The figures below show the top and side views of the fabricated circuit respectively.
              
 
@@ -52,6 +52,8 @@ The figures below show the top and side views of the fabricated circuit respecti
  ![image](https://user-images.githubusercontent.com/96857630/152342837-43888c3f-7b59-47e3-9a83-4054d1606926.png)
  
 
+### The dispenser ###
+[photos](https://github.com/davidmutinda/Access-controlled-contactless-liquid-dispenser/tree/main/Photos)
 
 
 ### Admin website ###
@@ -62,6 +64,7 @@ The images below show the admin website which shows users' data, and is used to 
  ![image](https://user-images.githubusercontent.com/96857630/152344950-650cb6f7-c27a-44e1-bd6a-6f6090c2d2f0.png)
  
  ![image](https://user-images.githubusercontent.com/96857630/152630572-5594cdf2-d666-4c8c-948e-d38b7a4b8086.png)
+
 
 
 
