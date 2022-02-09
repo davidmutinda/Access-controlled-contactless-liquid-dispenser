@@ -1,9 +1,9 @@
-# ACCESS-CONTROLLED CONTACTLESS LIQUID DISPENSER #
+# ACCESS-CONTROLLED CONTACTLESS LIQUID DISPENSER 
 
 ![pour (2)](https://user-images.githubusercontent.com/96857630/152315897-77563ef2-4230-4c42-804d-a10387b5d90d.jpg)
 
 
-## ABSTRACT ##
+## ABSTRACT 
 The access-controlled contactless liquid dispenser prevents the spread of covid-19 by providing a system that dispenses liquids e.g. beverages, without contact. This dispenser only dispenses the beverages to bona fide members. Anyone that doesn’t possess valid identification is be denied access to the beverages in the dispenser. This dispenser also reduces wastage by providing a system that dispenses a specified amount to users and also limits the number of times the users can dispense in a day. The amount dispensed and the number of times a user can use it in a day depends on the user's membership i.e. regular or premium.
 
 ## BLOCK DIAGRAM ##
